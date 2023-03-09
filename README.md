@@ -24,18 +24,24 @@ Javascript
 
 
 3. Backend
+
 Nodejs
+
 Frameworks
+
 Express
 Adonis
 Nestjs
+
 ORM
 Mongoose
 Prisma2
 Typeorm
 Sequilize
+
 Php
 Laravel
+
 Python
 Django
 Flask
