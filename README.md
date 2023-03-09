@@ -1,23 +1,29 @@
 # Courses
 
-Front-end Development
+1. Front-end Development
+
 Frontend Framework/library
+
 React
 Nextjs
 Gatsby
 React Native
+
 Vue
 Nuxt
 Angular
 Svelte
+
 UI Design
+
 Javascript
 
 
-DevOps
+
+2. DevOps
 
 
-Backend
+3. Backend
 Nodejs
 Frameworks
 Express
