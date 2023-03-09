@@ -13,6 +13,8 @@ Svelte
 UI Design
 Javascript
 DevOps
+
+
 Backend
 Nodejs
 Frameworks
