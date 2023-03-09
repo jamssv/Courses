@@ -12,6 +12,8 @@ Angular
 Svelte
 UI Design
 Javascript
+
+
 DevOps
 
 
